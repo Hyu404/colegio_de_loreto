@@ -28,7 +28,7 @@ export function SiteHeader() {
             <a href="/student-portal" className="transition-colors hover:text-gold">
               Student Portal
             </a>
-            <a href="#" className="transition-colors hover:text-gold">
+            <a href="/faculty" className="transition-colors hover:text-gold">
               Faculty
             </a>
             <a href="#" className="transition-colors hover:text-gold">
