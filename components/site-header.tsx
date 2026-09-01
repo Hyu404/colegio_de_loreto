@@ -25,7 +25,7 @@ export function SiteHeader() {
             </span>
           </div>
           <div className="flex items-center gap-5">
-            <a href="#" className="transition-colors hover:text-gold">
+            <a href="/student-portal" className="transition-colors hover:text-gold">
               Student Portal
             </a>
             <a href="#" className="transition-colors hover:text-gold">
