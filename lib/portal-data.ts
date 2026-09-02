@@ -30,10 +30,10 @@ export const schedule = [
 ]
 
 export const grades = [
-  { code: 'GENED 01', name: 'Purposive Communication', grade: '1.50', progress: 92 },
-  { code: 'AGRI 101', name: 'Introduction to Agricultural Business', grade: '1.75', progress: 88 },
-  { code: 'ENTR 101', name: 'Fundamentals of Entrepreneurship', grade: '1.75', progress: 86 },
-  { code: 'MATH 101', name: 'Mathematics in the Modern World', grade: '2.00', progress: 82 },
+  { code: 'GENED 01', name: 'Purposive Communication', grade: '1.50', progress: 92, units: 3 },
+  { code: 'AGRI 101', name: 'Introduction to Agricultural Business', grade: '1.75', progress: 88, units: 3 },
+  { code: 'ENTR 101', name: 'Fundamentals of Entrepreneurship', grade: '1.75', progress: 86, units: 3 },
+  { code: 'MATH 101', name: 'Mathematics in the Modern World', grade: '2.00', progress: 82, units: 3 },
 ]
 
 export const announcements = [
