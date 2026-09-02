@@ -31,8 +31,8 @@ export function SiteHeader() {
             <a href="/faculty" className="transition-colors hover:text-gold">
               Faculty
             </a>
-            <a href="#" className="transition-colors hover:text-gold">
-              Alumni
+            <a href="/admin" className="transition-colors hover:text-gold">
+              Registrar Admin
             </a>
             <a href="#" aria-label="Official Facebook page" className="transition-colors hover:text-gold">
               <Globe className="h-4 w-4" />
