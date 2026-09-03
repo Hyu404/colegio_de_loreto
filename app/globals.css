@@ -4,6 +4,16 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@media print {
+  body { background: white !important; }
+  .schedule-print { color: black !important; }
+  .schedule-print button, .schedule-print select { display: none !important; }
+  .schedule-print .bg-navy { background: #1f2a5a !important; color: white !important; }
+  .schedule-print .bg-background, .schedule-print .bg-muted\/50 { background: white !important; }
+  .schedule-print .text-primary-foreground { color: white !important; }
+  .schedule-print > p { color: #555 !important; }
+}
+
 @theme inline {
   --font-sans: var(--font-open-sans), ui-sans-serif, system-ui, sans-serif;
   --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
