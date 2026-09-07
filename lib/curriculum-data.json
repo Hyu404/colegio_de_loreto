@@ -1,0 +1,3091 @@
+[
+  {
+    "id": "bpa",
+    "code": "BPA",
+    "title": "BACHELOR IN PUBLIC ADMINISTRATION (BPA)",
+    "cmo": "School Year 2026\u20132027 | CMO No. 18, Series of 2017",
+    "schoolYear": "2026\u20132027",
+    "totalUnits": 155,
+    "docxFileName": "BACHELOR-IN-PUBLIC-ADMINISTRATION.docx",
+    "semesters": [
+      {
+        "yearLevel": "First Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-101",
+            "term": "1st",
+            "description": "Purposive Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-103",
+            "term": "1st",
+            "description": "Mathematics in the Modern World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 1",
+            "term": "1st",
+            "description": "Basic Computer Operations with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 4",
+            "term": "1st",
+            "description": "English for Professionals",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-102",
+            "term": "2nd",
+            "description": "Readings in Philippine History",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-104",
+            "term": "2nd",
+            "description": "Understanding the Self",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 2",
+            "term": "2nd",
+            "description": "Values Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 1",
+            "term": "Sem",
+            "description": "National Service Training Program 1 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 1",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 1 (Movement Competency Training)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "First Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-105",
+            "term": "1st",
+            "description": "Science, Technology and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 3",
+            "term": "1st",
+            "description": "Environmental Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-106",
+            "term": "1st",
+            "description": "Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 5",
+            "term": "1st",
+            "description": "Introduction to Information Technology with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "IR 1"
+          },
+          {
+            "code": "GE-109",
+            "term": "2nd",
+            "description": "Life and Works of Rizal",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-108",
+            "term": "2nd",
+            "description": "The Contemporary World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-107",
+            "term": "2nd",
+            "description": "Art Appreciation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 2",
+            "term": "Sem",
+            "description": "National Service Training Program 2 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "NSTP 1"
+          },
+          {
+            "code": "PATHFIT 2",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 2 (Exercise-Based Fitness Activities)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "Elective 1",
+            "term": "1st",
+            "description": "Project Development and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 1",
+            "term": "1st",
+            "description": "Gender and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 3",
+            "term": "1st",
+            "description": "Personal Growth and Career Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 101",
+            "term": "1st",
+            "description": "Introduction to Public Administration 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA Special Core 1",
+            "term": "2nd",
+            "description": "Basic Accounting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 2a",
+            "term": "2nd",
+            "description": "Indigenous Creative Crafts",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 102",
+            "term": "2nd",
+            "description": "Philippine Administrative Thought and Institutions",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 101"
+          },
+          {
+            "code": "PATHFIT 3",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 3 (Dance)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "PA 103",
+            "term": "1st",
+            "description": "Knowledge Management and ICT for Public Service",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 104",
+            "term": "1st",
+            "description": "Organization and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 101"
+          },
+          {
+            "code": "Elective 2",
+            "term": "1st",
+            "description": "Globalization and Public Administration",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 105",
+            "term": "1st",
+            "description": "Local and Regional Governance",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 106",
+            "term": "2nd",
+            "description": "Ethics and Accountability in the Public Service",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 107",
+            "term": "2nd",
+            "description": "Public Accounting and Budgeting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 106"
+          },
+          {
+            "code": "PSY 1",
+            "term": "2nd",
+            "description": "Psychology",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 4",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 4 (Sports)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 3"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "PA Special Core 2",
+            "term": "1st",
+            "description": "Elementary Statistics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "GE- 103"
+          },
+          {
+            "code": "RES 1",
+            "term": "1st",
+            "description": "Research Methods Applied in Public Administration 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 108",
+            "term": "1st",
+            "description": "Public Fiscal Administration",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 107"
+          },
+          {
+            "code": "Elective 3",
+            "term": "2nd",
+            "description": "Salary Standardization",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Elective 2",
+            "term": "",
+            "description": "PA 109",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Office and System Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 110",
+            "term": "2nd",
+            "description": "Administrative Law",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 101"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "PA 111",
+            "term": "1st",
+            "description": "Public Policy and Program Administration",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 112",
+            "term": "1st",
+            "description": "Public Personnel Administration",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 101"
+          },
+          {
+            "code": "RES 2",
+            "term": "1st",
+            "description": "Research Methods Applied in Public Administration 2",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "RES 1"
+          },
+          {
+            "code": "PA 113",
+            "term": "2nd",
+            "description": "Politics and Administration",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PA 102"
+          },
+          {
+            "code": "PA 114",
+            "term": "2nd",
+            "description": "Leadership and Decision Making",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA Special Core 3",
+            "term": "2nd",
+            "description": "Good Governance and Social Responsibility",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA Special Core 2",
+            "term": "",
+            "description": "Total",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "Elective 4",
+            "term": "1st",
+            "description": "Records and Property Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Elective 3",
+            "term": "",
+            "description": "PA 115",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "1st",
+            "term": "",
+            "description": "Human Behavior in Organization",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 116",
+            "term": "2nd",
+            "description": "Governance and Development",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PA 117",
+            "term": "2nd",
+            "description": "Special Topics in Public Administration with Seminar",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Permission of Program Head",
+            "term": "",
+            "description": "Total",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "PRACT",
+            "term": "Sem",
+            "description": "Practicum / Work Integrated Learning for Public Administration (500 Hours)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "CAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bsab",
+    "code": "BSAB",
+    "title": "BACHELOR OF SCIENCE IN AGRIBUSINESS (BSAB)",
+    "cmo": "School Year 2026\u20132027 | CMO No. 24, Series of 2007",
+    "schoolYear": "2026\u20132027",
+    "totalUnits": 176,
+    "docxFileName": "BACHELOR-OF-SCIENCE-IN-AGRIBUSINESS.docx",
+    "semesters": [
+      {
+        "yearLevel": "First Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-104",
+            "term": "1st",
+            "description": "Understanding the Self",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 1",
+            "term": "1st",
+            "description": "Basic Computer Operations with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-108",
+            "term": "1st",
+            "description": "The Contemporary World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-109",
+            "term": "1st",
+            "description": "Life and Works of Rizal",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-101",
+            "term": "2nd",
+            "description": "Purposive Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-102",
+            "term": "2nd",
+            "description": "Readings in Philippine History",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-105",
+            "term": "2nd",
+            "description": "Science, Technology, and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 1",
+            "term": "Sem",
+            "description": "National Service Training Program 1 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 1",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 1 (Movement Competency Training)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "First Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-103",
+            "term": "1st",
+            "description": "Mathematics in the Modern World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 2a",
+            "term": "1st",
+            "description": "Indigenous Creative Crafts",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 2",
+            "term": "1st",
+            "description": "Values Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 4",
+            "term": "1st",
+            "description": "English for Professionals",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-106",
+            "term": "2nd",
+            "description": "Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 3",
+            "term": "2nd",
+            "description": "Personal Growth and Career Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 5",
+            "term": "2nd",
+            "description": "Introduction to Information Technology with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 2",
+            "term": "Sem",
+            "description": "National Service Training Program 2 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "NSTP 1"
+          },
+          {
+            "code": "PATHFIT 2",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 2 (Exercise-Based Fitness Activities)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "AS 1",
+            "term": "1st",
+            "description": "Introduction to Animal Science",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "CS 1",
+            "term": "1st",
+            "description": "Principles of Crop Science",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-107",
+            "term": "1st",
+            "description": "Art Appreciation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 3",
+            "term": "1st",
+            "description": "Environmental Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 1",
+            "term": "2nd",
+            "description": "Introduction to Management Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "GE-103"
+          },
+          {
+            "code": "Ag Econ",
+            "term": "2nd",
+            "description": "Agricultural Economics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 1",
+            "term": "2nd",
+            "description": "Gender and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "InF 11",
+            "term": "2nd",
+            "description": "Introduction to Fisheries",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 3",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 3 (Dance)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "AGB 2",
+            "term": "1st",
+            "description": "Concepts and Dynamics of Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Ag Econ",
+            "term": "",
+            "description": "AGB 6",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "1st",
+            "term": "",
+            "description": "Intermediate Microeconomic Theory",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Ag Econ",
+            "term": "",
+            "description": "AS 2",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "1st",
+            "term": "",
+            "description": "Introduction to Livestock and Poultry Production",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "AS 1"
+          },
+          {
+            "code": "CS 2",
+            "term": "1st",
+            "description": "Fundamentals of Horticulture",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "CS1"
+          },
+          {
+            "code": "AGB 5",
+            "term": "2nd",
+            "description": "Introduction to Entrepreneurship",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 7",
+            "term": "2nd",
+            "description": "Principles of Accounting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Ag Econ",
+            "term": "",
+            "description": "Ag Ex 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Principles of Agricultural Extension and Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "SS 1",
+            "term": "2nd",
+            "description": "Principles of Soil Science",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "CS 1"
+          },
+          {
+            "code": "PATHFIT 4",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 4 (Sports)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 3"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "AGB 101",
+            "term": "1st",
+            "description": "Introduction to Marketing Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 2"
+          },
+          {
+            "code": "AGB 103",
+            "term": "1st",
+            "description": "Managerial Accounting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 7"
+          },
+          {
+            "code": "AGB 3",
+            "term": "1st",
+            "description": "Introduction to Agribusiness Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 2"
+          },
+          {
+            "code": "Ag Eng 1",
+            "term": "1st",
+            "description": "Principles of Agricultural Engineering",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 102",
+            "term": "2nd",
+            "description": "Business Law",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 2"
+          },
+          {
+            "code": "AGB 105",
+            "term": "2nd",
+            "description": "Agribusiness Research Methods",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 4",
+            "term": "2nd",
+            "description": "Introduction to Human Behavior in Organization",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 2"
+          },
+          {
+            "code": "CP 1",
+            "term": "2nd",
+            "description": "Entomology",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "CS 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "FSM 5",
+            "term": "1st",
+            "description": "Food Processing, Packaging, and Labelling",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 104",
+            "term": "1st",
+            "description": "Introduction to Financial Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 103"
+          },
+          {
+            "code": "Ag Stat",
+            "term": "1st",
+            "description": "Agricultural Statistics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB SP",
+            "term": "1st",
+            "description": "Special Program / Thesis",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 105"
+          },
+          {
+            "code": "AGB 106",
+            "term": "2nd",
+            "description": "Introduction to Production and Operations Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 2"
+          },
+          {
+            "code": "AGB 108",
+            "term": "2nd",
+            "description": "Introduction to International Marketing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 101"
+          },
+          {
+            "code": "CP 2",
+            "term": "2nd",
+            "description": "Plant Pathology",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "CP 1"
+          },
+          {
+            "code": "SS 2",
+            "term": "2nd",
+            "description": "Soil Fertility, Conservation and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "SS 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "AGB 107",
+            "term": "1st",
+            "description": "Introduction to Investment Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 104"
+          },
+          {
+            "code": "AGB 110",
+            "term": "1st",
+            "description": "Introduction to Project Feasibility Study and Project Benefit Monitoring Evaluation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 3,4,5,7"
+          },
+          {
+            "code": "AGB 112",
+            "term": "1st",
+            "description": "Introduction to Personnel Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 4"
+          },
+          {
+            "code": "AGB 109",
+            "term": "2nd",
+            "description": "Introduction to Managerial Economics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "AGB 111",
+            "term": "2nd",
+            "description": "Introduction to Strategic Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 102"
+          },
+          {
+            "code": "AGB 113",
+            "term": "2nd",
+            "description": "Introduction to Organization and Management of Small Business",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "AGB 1,3, 4,5,6,7"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "AGB Pract",
+            "term": "Sem",
+            "description": "Practicum / Industry Work Integrated Learning",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "CAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bsent",
+    "code": "BSENT",
+    "title": "BACHELOR OF SCIENCE IN ENTREPRENEURSHIP (BSE)",
+    "cmo": "School Year 2026\u20132027 | CMO No. 18, Series of 2017",
+    "schoolYear": "2026\u20132027",
+    "totalUnits": 159,
+    "docxFileName": "BACHELOR-OF-SCIENCE-IN-ENTREPRENEURSHIP.docx",
+    "semesters": [
+      {
+        "yearLevel": "First Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-104",
+            "term": "1st",
+            "description": "Understanding the Self",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 3",
+            "term": "1st",
+            "description": "Environmental Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-108",
+            "term": "1st",
+            "description": "The Contemporary World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 2",
+            "term": "1st",
+            "description": "Values Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-107",
+            "term": "2nd",
+            "description": "Art Appreciation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 1",
+            "term": "2nd",
+            "description": "Gender and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 1",
+            "term": "2nd",
+            "description": "Basic Computer Operations with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 1",
+            "term": "Sem",
+            "description": "National Service Training Program 1 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 1",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 1 (Movement Competency Training)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "First Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-101",
+            "term": "1st",
+            "description": "Purposive Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-102",
+            "term": "1st",
+            "description": "Readings in Philippine History",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-109",
+            "term": "1st",
+            "description": "Life and Works of Rizal",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 5",
+            "term": "1st",
+            "description": "Introduction to Information Technology with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "IR 1"
+          },
+          {
+            "code": "GE-105",
+            "term": "2nd",
+            "description": "Science, Technology and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-103",
+            "term": "2nd",
+            "description": "Mathematics in the Modern World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 4",
+            "term": "2nd",
+            "description": "English for Professionals",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 2",
+            "term": "Sem",
+            "description": "National Service Training Program 2 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "NSTP 1"
+          },
+          {
+            "code": "PATHFIT 2",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 2 (Exercise-Based Fitness Activities)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ACCTG 1",
+            "term": "1st",
+            "description": "Fundamentals of Accounting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 002",
+            "term": "1st",
+            "description": "Applied Economics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-106",
+            "term": "1st",
+            "description": "Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 3",
+            "term": "1st",
+            "description": "Professional Growth and Career Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ABM 3",
+            "term": "2nd",
+            "description": "Business Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 001",
+            "term": "2nd",
+            "description": "Entrepreneurial Behavior",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 2a",
+            "term": "2nd",
+            "description": "Indigenous Creative Crafts",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 3",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 3 (Dance)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ENT 003",
+            "term": "1st",
+            "description": "Opportunity Seeking",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 001"
+          },
+          {
+            "code": "ENT 005",
+            "term": "1st",
+            "description": "Innovations Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 001"
+          },
+          {
+            "code": "ENT Elect 1",
+            "term": "1st",
+            "description": "Microfinancing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 6",
+            "term": "1st",
+            "description": "Introduction to MICE",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 004",
+            "term": "2nd",
+            "description": "Social Entrepreneurship",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 001"
+          },
+          {
+            "code": "ENT 006",
+            "term": "2nd",
+            "description": "Market Research and Consumer Behavior",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ABM 3"
+          },
+          {
+            "code": "HRM",
+            "term": "2nd",
+            "description": "Human Resource Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 4",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 4 (Sports)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 3"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ABM 1",
+            "term": "1st",
+            "description": "Business Organization and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "BME 101",
+            "term": "1st",
+            "description": "Operations Management and Total Quality Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 009",
+            "term": "1st",
+            "description": "Financial Management and Decision Making",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ACCTG 1"
+          },
+          {
+            "code": "FSM 4",
+            "term": "1st",
+            "description": "Basic Baking",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ABM 4",
+            "term": "2nd",
+            "description": "Business Mathematics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 008",
+            "term": "2nd",
+            "description": "Pricing and Costing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ABM 3"
+          },
+          {
+            "code": "ENT 010",
+            "term": "2nd",
+            "description": "Business Plan Preparation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 006"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ABM 2",
+            "term": "1st",
+            "description": "Business Marketing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 012",
+            "term": "1st",
+            "description": "Business Plan Implementation 1 (Product Development and Market Analysis)",
+            "lec": 3,
+            "lab": 2,
+            "totalUnits": 5,
+            "prerequisite": "ENT 010"
+          },
+          {
+            "code": "ENT 011",
+            "term": "2nd",
+            "description": "Programs and Policies on Enterprise Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 001"
+          },
+          {
+            "code": "ENT Elect 2",
+            "term": "2nd",
+            "description": "Export Marketing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ABM 3"
+          },
+          {
+            "code": "ENT Elect 3",
+            "term": "2nd",
+            "description": "E-Commerce",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "BME 102",
+            "term": "1st",
+            "description": "Strategic Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "BME 101"
+          },
+          {
+            "code": "ENT 014",
+            "term": "1st",
+            "description": "Business Law and Taxation w / Focus on Laws Affecting SMEs",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ACCTG 1"
+          },
+          {
+            "code": "FSM 5",
+            "term": "1st",
+            "description": "Food Processing, Packaging, and Labeling",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ENT 013",
+            "term": "2nd",
+            "description": "International Business and Trade",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "ENT 002"
+          },
+          {
+            "code": "ENT Elect 4",
+            "term": "2nd",
+            "description": "Franchising",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ENT 015",
+            "term": "1st",
+            "description": "Business Plan Implementation 2",
+            "lec": 2,
+            "lab": 3,
+            "totalUnits": 5,
+            "prerequisite": "ENT 012"
+          },
+          {
+            "code": "FSM 3",
+            "term": "2nd",
+            "description": "Meal Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bstm",
+    "code": "BSTM",
+    "title": "BACHELOR OF SCIENCE IN TOURISM MANAGEMENT (BSTM)",
+    "cmo": "School Year 2026\u20132027 | CMO No. 62, Series of 2017",
+    "schoolYear": "2026\u20132027",
+    "totalUnits": 170,
+    "docxFileName": "BACHELOR-OF-SCIENCE-IN-TOURISM-MANAGEMENT-1.docx",
+    "semesters": [
+      {
+        "yearLevel": "First Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-102",
+            "term": "1st",
+            "description": "Readings in Philippine History",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-103",
+            "term": "1st",
+            "description": "Mathematics in the Modern World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 1",
+            "term": "1st",
+            "description": "Gender and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-104",
+            "term": "2nd",
+            "description": "Understanding the Self",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-105",
+            "term": "2nd",
+            "description": "Science, Technology and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 1",
+            "term": "2nd",
+            "description": "Basic Computer Operation with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 2b",
+            "term": "2nd",
+            "description": "Philippine Indigenous Communities",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 1",
+            "term": "Sem",
+            "description": "National Service Training Program 1 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 1",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 1 (Movement Competency Training)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "First Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-106",
+            "term": "",
+            "description": "1sr",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Ethics",
+            "term": "",
+            "description": "3",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-107",
+            "term": "1st",
+            "description": "Art Appreciation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 3",
+            "term": "1st",
+            "description": "Personal Growth and Career Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-108",
+            "term": "1st",
+            "description": "The Contemporary World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-101",
+            "term": "2nd",
+            "description": "Purposive Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 2",
+            "term": "2nd",
+            "description": "Values Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 5",
+            "term": "2nd",
+            "description": "Introduction to Information Technology with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "IR 1"
+          },
+          {
+            "code": "NSTP 2",
+            "term": "Sem",
+            "description": "National Service Training Program 2 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "NSTP 1"
+          },
+          {
+            "code": "PATHFIT 2",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 2 (Exercise-Based Fitness Activities)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "BME 101",
+            "term": "1st",
+            "description": "Operations Management and Total Quality Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-109",
+            "term": "1st",
+            "description": "Life and Works of Rizal",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ABM 1",
+            "term": "1st",
+            "description": "Business Organization and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 1",
+            "term": "1st",
+            "description": "Tour Guiding",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 4",
+            "term": "2nd",
+            "description": "English for Professionals",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 3",
+            "term": "2nd",
+            "description": "Environmental Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "THC 1",
+            "term": "2nd",
+            "description": "Tourism and Hospitality Marketing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 3",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 3 (Dance)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "BME 102",
+            "term": "1st",
+            "description": "Strategic Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "BME 101"
+          },
+          {
+            "code": "THC 3",
+            "term": "1st",
+            "description": "Quality Service Management in Tourism and Hospitality",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "THC 1"
+          },
+          {
+            "code": "TM 3",
+            "term": "1st",
+            "description": "Applied Business Tools and Technologies in Tourism",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ACCTG 1",
+            "term": "1st",
+            "description": "Fundamentals of Accounting",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "THC 2",
+            "term": "2nd",
+            "description": "Risk Management and Applied, Safety, Security and Sanitation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 1",
+            "term": "2nd",
+            "description": "Global Culture and Tourism Geography",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 2",
+            "term": "2nd",
+            "description": "Accommodation Operation and Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 1",
+            "term": "",
+            "description": "PATHFIT 4",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Sem",
+            "term": "",
+            "description": "Physical Activities Towards Health and Fitness 4 (Sports)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 3"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "TM Res 1",
+            "term": "1st",
+            "description": "Methods of Business Research",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "THC 4",
+            "term": "1st",
+            "description": "Philippine Culture and Tourism Geography",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "THC 3"
+          },
+          {
+            "code": "TM 4",
+            "term": "1st",
+            "description": "Sustainable Tourism",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TM 3"
+          },
+          {
+            "code": "TM Elect 3",
+            "term": "1st",
+            "description": "Health and Wellness Tourism",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 2",
+            "term": "",
+            "description": "ENT 002",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Applied Economics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 2",
+            "term": "2nd",
+            "description": "Tour and Travel Management",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "TM 1"
+          },
+          {
+            "code": "TM 7",
+            "term": "2nd",
+            "description": "Foreign Language 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "ABM 2",
+            "term": "2nd",
+            "description": "Business Marketing",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "ABM 3",
+            "term": "1st",
+            "description": "Business Finance",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "THC 7",
+            "term": "1st",
+            "description": "Professional Development and Applied Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 5",
+            "term": "1st",
+            "description": "Tourism Policy Planning and Development",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Res 2",
+            "term": "1st",
+            "description": "Research in Tourism",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Res 1",
+            "term": "",
+            "description": "THC 6",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Micro Perspective of Tourism and Hospitality",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 6",
+            "term": "2nd",
+            "description": "Introduction to Meetings Incentives Conferences and Events Management",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "THC 3"
+          },
+          {
+            "code": "TM 9",
+            "term": "2nd",
+            "description": "Transportation Management (Covers Air, Land, and Sea)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 4",
+            "term": "2nd",
+            "description": "Ecotourism",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM Elect 3",
+            "term": "",
+            "description": "Total",
+            "lec": 23,
+            "lab": 2,
+            "totalUnits": 24,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "THC 8",
+            "term": "1st",
+            "description": "Legal Aspects in Tourism and Hospitality",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "THC 7"
+          },
+          {
+            "code": "THC 9",
+            "term": "1st",
+            "description": "Multicultural Diversity in Workplace for the Tourism Professional",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TM 8",
+            "term": "1st",
+            "description": "Foreign Language 2",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TM 7"
+          },
+          {
+            "code": "THC 5",
+            "term": "2nd",
+            "description": "Entrepreneurship in Tourism and Hospitality",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "THC 1"
+          },
+          {
+            "code": "THC 10",
+            "term": "2nd",
+            "description": "Macro Perspective of Tourism and Hospitality",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "THC 6"
+          },
+          {
+            "code": "TM Elect 5",
+            "term": "2nd",
+            "description": "Tourism Information Management",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "TM 3"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "PRACT",
+            "term": "Sem",
+            "description": "Practicum",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "CAR"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "btvted",
+    "code": "BTVTED",
+    "title": "BACHELOR OF TECHNICAL-VOCATIONAL TEACHER EDUCATION (BTVTED)",
+    "cmo": "School Year 2026\u20132027 | CMO No. 79, Series of 2017 & CMO No. 20, Series of 2013",
+    "schoolYear": "2026\u20132027",
+    "totalUnits": 191,
+    "docxFileName": "BACHELOR-OF-TECHNICAL.docx",
+    "semesters": [
+      {
+        "yearLevel": "First Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "GE-101",
+            "term": "1st",
+            "description": "Purposive Communication",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-105",
+            "term": "1st",
+            "description": "Science, Technology and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-107",
+            "term": "1st",
+            "description": "Art Appreciation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-106",
+            "term": "1st",
+            "description": "Ethics",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-103",
+            "term": "2nd",
+            "description": "Mathematics in the Modern World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 3",
+            "term": "2nd",
+            "description": "Environmental Science",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-108",
+            "term": "2nd",
+            "description": "The Contemporary World",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 1",
+            "term": "Sem",
+            "description": "National Service Training Program 1 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 1",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 1 (Movement Competency Training)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          }
+        ]
+      },
+      {
+        "yearLevel": "First Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "IR 1",
+            "term": "1st",
+            "description": "Basic Computer Operations with Laboratory",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-109",
+            "term": "1st",
+            "description": "Life and Works of Rizal",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 2a",
+            "term": "1st",
+            "description": "Indigenous Creative Crafts",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 2",
+            "term": "1st",
+            "description": "Values Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-102",
+            "term": "2nd",
+            "description": "Readings in Philippine History",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-Elect 1",
+            "term": "2nd",
+            "description": "Gender and Society",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "GE-104",
+            "term": "2nd",
+            "description": "Understanding the Self",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "NSTP 2",
+            "term": "Sem",
+            "description": "National Service Training Program 2 (CWTS / LTS / ROTC)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "NSTP 1"
+          },
+          {
+            "code": "PATHFIT 2",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 2 (Exercise-Based Fitness Activities)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "FSM 1",
+            "term": "1st",
+            "description": "Occupational Safety and Health Practices",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "IR 4",
+            "term": "1st",
+            "description": "English for Professionals",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 1",
+            "term": "1st",
+            "description": "Introduction to Industrial Arts",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 3",
+            "term": "1st",
+            "description": "Teaching ICT as an Exploratory Course",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 5",
+            "term": "2nd",
+            "description": "Facilitating Learner-Centered Teaching: The Learner-Centered Approaches with Emphasis on Trainers Methodology 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FSM 2",
+            "term": "2nd",
+            "description": "Food Selection and Preparation",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 2",
+            "term": "2nd",
+            "description": "Home Economics Literacy",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 4",
+            "term": "2nd",
+            "description": "Introduction to Agriculture and Fisheries",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "PATHFIT 3",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 3 (Dance)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Second Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "EDUC 2",
+            "term": "1st",
+            "description": "The Teaching Profession",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 4",
+            "term": "1st",
+            "description": "Foundation of Special and Inclusive Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 7",
+            "term": "1st",
+            "description": "Assessment of Learning 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 6",
+            "term": "1st",
+            "description": "Teaching the Common Competencies in IA",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TLE 1"
+          },
+          {
+            "code": "EDUC 3",
+            "term": "2nd",
+            "description": "The Teacher and the Community, School Culture and Organizational Leadership with Focus on TVET System",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 6",
+            "term": "2nd",
+            "description": "The Andragogy of Learning Including Principles of Trainers Methodology 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 9",
+            "term": "2nd",
+            "description": "Technology for Teaching and Learning 1",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 8",
+            "term": "2nd",
+            "description": "Teaching the Common Competencies in ICT",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TLE 3"
+          },
+          {
+            "code": "PATHFIT 4",
+            "term": "Sem",
+            "description": "Physical Activities Toward Health and Fitness 4 (Sports)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "PATHFIT 3"
+          },
+          {
+            "code": "EDUC 8",
+            "term": "1st",
+            "description": "Assessment In Learning 2 with Focus on Trainers Methodology I and II",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 5 & EDUC 7",
+            "term": "",
+            "description": "FSM 4",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "1st",
+            "term": "",
+            "description": "Basic Baking",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          },
+          {
+            "code": "FSM 3",
+            "term": "2nd",
+            "description": "Meal Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "EDUC 1",
+            "term": "1st",
+            "description": "The Child and Adolescent Learners and Learning Principles",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 11",
+            "term": "1st",
+            "description": "Building and Enhancing New Literacies Across the Curriculum",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FSM 6",
+            "term": "1st",
+            "description": "Advance Baking",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2, FSM 4"
+          },
+          {
+            "code": "RES 1",
+            "term": "1st",
+            "description": "Technology Research 1 (Methods of Research)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EDUC 10",
+            "term": "2nd",
+            "description": "Curriculum Development and Evaluation with Emphasis on Trainers' Methodology II*",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FSM 5",
+            "term": "2nd",
+            "description": "Food Processing, Packaging, and Labeling",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          },
+          {
+            "code": "TLE 5",
+            "term": "2nd",
+            "description": "Entrepreneurship",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 7",
+            "term": "2nd",
+            "description": "Teaching the Common Competencies in HE",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TLE 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Third Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "EDUC 12",
+            "term": "1st",
+            "description": "Work-based Learning with Emphasis on Trainers Methodology",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FSM 8",
+            "term": "1st",
+            "description": "Quantity Cookery",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2, FSM 3"
+          },
+          {
+            "code": "RES 2",
+            "term": "1st",
+            "description": "Technology Research 2 (Undergraduate Thesis / Research Paper / Paper Project)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "RES 1"
+          },
+          {
+            "code": "TLE 11",
+            "term": "1st",
+            "description": "Technology for Teaching and Learning 2",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "EDUC 9"
+          },
+          {
+            "code": "FSM 7",
+            "term": "2nd",
+            "description": "International Cuisine",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2, FSM 3"
+          },
+          {
+            "code": "FSM 9",
+            "term": "2nd",
+            "description": "Cafeteria and Catering Management",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          },
+          {
+            "code": "TLE 10",
+            "term": "2nd",
+            "description": "Supervised Industrial Training",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "TLE 9",
+            "term": "2nd",
+            "description": "Teaching the Common Competencies in AFA",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "TLE 4"
+          },
+          {
+            "code": "FSM 10",
+            "term": "1st",
+            "description": "Bartending and Bar Management",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          },
+          {
+            "code": "FSM 12",
+            "term": "1st",
+            "description": "Human Resource Management",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FSM 11",
+            "term": "2nd",
+            "description": "Food and Beverage Service",
+            "lec": 2,
+            "lab": 1,
+            "totalUnits": 3,
+            "prerequisite": "FSM 1, FSM 2"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "First Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "FS 1",
+            "term": "1st",
+            "description": "Field Study 1 \u2013 Observations of Teaching- Learning in Actual School Environment",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "All GE, Major, & Prof Ed Courses",
+            "term": "",
+            "description": "IR 3",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "1st",
+            "term": "",
+            "description": "Personal Growth and Career Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "EP-GED",
+            "term": "2nd",
+            "description": "Enhancement Program 1 (General Education Courses)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "All GE Courses",
+            "term": "",
+            "description": "FS 2",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Field Study 2 \u2013 Participation and Teaching Assistantship",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "FS 1"
+          }
+        ]
+      },
+      {
+        "yearLevel": "Fourth Year",
+        "semester": "Second Semester",
+        "totalUnits": 0,
+        "subjects": [
+          {
+            "code": "EP-PEC",
+            "term": "1st",
+            "description": "Enhancement Program 2 (Professional Education Courses)",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FS 1 & FS 2",
+            "term": "",
+            "description": "EP-SEC",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "2nd",
+            "term": "",
+            "description": "Enhancement Program 2 (Specialized Education",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FS 1 & FS 2",
+            "term": "",
+            "description": "ST",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Sem",
+            "term": "",
+            "description": "Teaching Internship",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "FS 1 & FS 2",
+            "term": "",
+            "description": "Total",
+            "lec": 4,
+            "lab": 0,
+            "totalUnits": 4,
+            "prerequisite": "None"
+          },
+          {
+            "code": "-837565130175Curriculum sequencing verified:\u2022 Year 1 contains only GE, institutional, PE, and NSTP courses.\u2022 Prerequisite courses precede dependent courses.\u2022 Year 2 major/professional load is minimized within total-unit and sequencing constraints.00Curriculum sequencing verified:\u2022 Year 1 contains only GE, institutional, PE, and NSTP courses.\u2022 Prerequisite courses precede dependent courses.\u2022 Year 2 major/professional load is minimized within total-unit and sequencing constraints.6",
+            "term": "",
+            "description": "Curriculum sequencing verified:\u2022 Year 1 contains only GE, institutional, PE, and NSTP courses.\u2022 Prerequisite courses precede dependent courses.\u2022 Year 2 major/professional load is minimized within total-unit and sequencing constraints.",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Curriculum sequencing verified:",
+            "term": "",
+            "description": "\u2022 Year 1 contains only GE, institutional, PE, and NSTP courses.\u2022 Prerequisite courses precede dependent courses.\u2022 Year 2 major/professional load is minimized within total-unit and sequencing constraints.",
+            "lec": 3,
+            "lab": 0,
+            "totalUnits": 3,
+            "prerequisite": "None"
+          },
+          {
+            "code": "Curriculum sequencing verified:",
+            "term": "",
+            "description": "\u2022 Year 1 contains only GE, institutional, PE, and NSTP courses.\u2022 Prerequisite courses precede dependent courses.\u2022 Year 2 major/professional load is minimized within total-unit and sequencing constraints.",
+            "lec": 10,
+            "lab": 0,
+            "totalUnits": 10,
+            "prerequisite": "None"
+          }
+        ]
+      }
+    ]
+  }
+]
